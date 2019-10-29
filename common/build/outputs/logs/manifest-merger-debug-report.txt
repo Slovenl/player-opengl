@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml:2:1-14:12
+	package
+		ADDED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml:3:7-40
+		INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml
+		INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml
+		INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml
+		INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml:8:2-75
+	android:glEsVersion
+		ADDED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml:8:16-48
+	android:required
+		ADDED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml:8:49-72
+application
+ADDED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml:10:5-12:19
+	android:label
+		ADDED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml:10:48-80
+	android:icon
+		ADDED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml:10:18-47
+uses-sdk
+INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml
+INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml
+INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml
+INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml
+		ADDED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml
+		INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml
+		ADDED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml
+		INJECTED from D:\soft\android\project\player-opengl\common\src\main\AndroidManifest.xml

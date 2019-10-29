@@ -1,0 +1,4 @@
+#Tue Oct 29 14:49:04 CST 2019
+base.0=D\:\\android\\project\\bzIjkPlayer-opengl\\ch2_Hello_Triangle\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

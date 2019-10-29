@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android\\project\\bzIjkPlayer-opengl\\ch6_Example_6_6\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "D:\\android\\project\\bzIjkPlayer-opengl\\ch6_Example_6_6\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\android\\project\\bzIjkPlayer-opengl\\ch6_Example_6_6\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\android\\project\\bzIjkPlayer-opengl\\ch6_Example_6_6\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\android\\project\\bzIjkPlayer-opengl\\ch6_Example_6_6\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\android\\project\\bzIjkPlayer-opengl\\ch6_Example_6_6\\src\\main\\res\\drawable-mdpi\\icon.png"
+    }
+]

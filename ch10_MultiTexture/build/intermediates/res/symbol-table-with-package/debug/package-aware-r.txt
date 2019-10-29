@@ -1,0 +1,3 @@
+com.openglesbook.multitexture
+drawable icon
+string app_name
